@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on FULL-STACK 
+- 🔭 I’m currently working on FULL-STACK -REACT
 - 🌱 I’m currently learning BACKEND DEVELOPEMENT
 - 👯 I’m looking to collaborate on MY THESIS or RESEARCH PAPER ON BIOMETRIC TRIBUNAL ANALYSIS
 - 🤔 I’m looking for help with MY THESIS && DEVELOPMENT JOURNOU'
